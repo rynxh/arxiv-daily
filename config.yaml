@@ -1,7 +1,7 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Vincentqyw"
-repo_name: "cv-arxiv-daily"
+user_name: "rynxh"
+repo_name: "arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
@@ -22,18 +22,30 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    "Code Foundation Models":
+        filters: ["Code LLM", "Large Language Model for Code", "Code Foundation Models", 
+                 "LLM for Software", "Code Intelligence", "Software-oriented LLM"]
+    "Code Generation":
+        filters: ["Code Generation", "Program Synthesis", "Neural Code Generation",
+                 "Text-to-Code", "Code Completion", "Docstring Generation"]
+    "Code Optimization":
+        filters: ["Code Optimization", "Program Optimization", "Performance Optimization",
+                 "Compiler Optimization", "Runtime Optimization", "Memory Optimization",
+                 "Optimisation"]  # 包含英式拼写
+    "Code Agents":
+        filters: ["Code Agent", "Programming Agent", "Software Agent",
+                 "Test Generation Agent", "Debugging Agent", "Code Review Agent"]
+    "Code Improvement":
+        filters: ["Code Improvement", "Automatic Code Repair", "Automated Program Repair",
+                 "Bug Fixing", "Code Refactoring", "Technical Debt Reduction"]
+    "LLM Applications":
+        filters: ["LLM in Software", "AI Pair Programming", "Copilot",
+                 "Code Understanding", "Code Explanation", "Code Documentation",
+                 "GitHub Copilot", "AI Coding Assistant"]
+    "Software Engineering":
+        filters: ["Neural Program Analysis", "Program Verification", 
+                 "Code Representation Learning", "Neural Code Understanding",
+                 "Retrieval-Augmented Generation for Code"]
+    "Emerging Topics":
+        filters: ["Code Search", "Code Clone Detection", "Code Summarization",
+                 "Code Translation", "Code Review Automation", "CI/CD with AI"]

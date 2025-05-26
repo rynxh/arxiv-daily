@@ -1,4 +1,4 @@
-## Updated on 2025.05.21
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -952,7 +952,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## SFM
 
@@ -1358,7 +1358,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2502,7 +2502,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2812,7 +2812,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3142,7 +3142,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## NeRF
 
@@ -4742,17 +4742,19 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Code Foundation Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-20**|**Success is in the Details: Evaluate and Enhance Details Sensitivity of Code LLMs through Counterfactuals**|Xianzhen Luo et.al.|[2505.14597](http://arxiv.org/abs/2505.14597)|null|
+|**2025-05-22**|**AGENTIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios**|Yunjia Qi et.al.|[2505.16944](http://arxiv.org/abs/2505.16944)|**[link](https://github.com/thu-keg/agentif)**|
+|**2025-05-22**|**LEANCODE: Understanding Models Better for Code Simplification of Pre-trained Large Language Models**|Yan Wang et.al.|[2505.14759](http://arxiv.org/abs/2505.14759)|null|
+|**2025-05-20**|**Success is in the Details: Evaluate and Enhance Details Sensitivity of Code LLMs through Counterfactuals**|Xianzhen Luo et.al.|[2505.14597](http://arxiv.org/abs/2505.14597)|**[link](https://github.com/luowaterbi/ctf-instruct)**|
 |**2025-05-20**|**Knowledge Graph Based Repository-Level Code Generation**|Mihir Athale et.al.|[2505.14394](http://arxiv.org/abs/2505.14394)|null|
 |**2025-05-20**|**Capturing the Effects of Quantization on Trojans in Code LLMs**|Aftab Hussain et.al.|[2505.14200](http://arxiv.org/abs/2505.14200)|null|
 |**2025-05-20**|**OSS-Bench: Benchmark Generator for Coding LLMs**|Yuancheng Jiang et.al.|[2505.12331](http://arxiv.org/abs/2505.12331)|**[link](https://github.com/oss-bench/oss-bench)**|
-|**2025-05-17**|**Do Code LLMs Do Static Analysis?**|Chia-Yi Su et.al.|[2505.12118](http://arxiv.org/abs/2505.12118)|null|
+|**2025-05-17**|**Do Code LLMs Do Static Analysis?**|Chia-Yi Su et.al.|[2505.12118](http://arxiv.org/abs/2505.12118)|**[link](https://github.com/apcl-research/llm-reason)**|
 |**2025-05-16**|**Is Compression Really Linear with Code Intelligence?**|Xianzhen Luo et.al.|[2505.11441](http://arxiv.org/abs/2505.11441)|null|
 |**2025-05-15**|**CRPE: Expanding The Reasoning Capability of Large Language Model for Code Generation**|Ningxin Gui et.al.|[2505.10594](http://arxiv.org/abs/2505.10594)|null|
 |**2025-05-12**|**LongCodeBench: Evaluating Coding LLMs at 1M Context Windows**|Stefano Rando et.al.|[2505.07897](http://arxiv.org/abs/2505.07897)|null|
@@ -4766,12 +4768,22 @@
 |**2025-04-22**|**Inducing Vulnerable Code Generation in LLM Coding Assistants**|Binqi Zeng et.al.|[2504.15867](http://arxiv.org/abs/2504.15867)|null|
 |**2025-04-20**|**LeetCodeDataset: A Temporal Dataset for Robust Evaluation and Efficient Training of Code LLMs**|Yunhui Xia et.al.|[2504.14655](http://arxiv.org/abs/2504.14655)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Code Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**PPT: A Process-based Preference Learning Framework for Self Improving Table Question Answering Models**|Wei Zhou et.al.|[2505.17565](http://arxiv.org/abs/2505.17565)|null|
+|**2025-05-23**|**From Reasoning to Generalization: Knowledge-Augmented LLMs for ARC Benchmark**|Chao Lei et.al.|[2505.17482](http://arxiv.org/abs/2505.17482)|null|
+|**2025-05-23**|**FullFront: Benchmarking MLLMs Across the Full Front-End Engineering Workflow**|Haoyu Sun et.al.|[2505.17399](http://arxiv.org/abs/2505.17399)|null|
+|**2025-05-22**|**Large Language Models for Predictive Analysis: How Far Are They?**|Qin Chen et.al.|[2505.17149](http://arxiv.org/abs/2505.17149)|null|
+|**2025-05-22**|**HyGenar: An LLM-Driven Hybrid Genetic Algorithm for Few-Shot Grammar Generation**|Weizhi Tang et.al.|[2505.16978](http://arxiv.org/abs/2505.16978)|**[link](https://github.com/rutatang/hygenar)**|
+|**2025-05-22**|**SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development**|Yaxin Du et.al.|[2505.16975](http://arxiv.org/abs/2505.16975)|**[link](https://github.com/justlittlewhite/swe-dev)**|
+|**2025-05-22**|**Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks**|Hongyuan Tao et.al.|[2505.16901](http://arxiv.org/abs/2505.16901)|null|
+|**2025-05-21**|**MAPS: A Multilingual Benchmark for Global Agent Performance and Security**|Omer Hofman et.al.|[2505.15935](http://arxiv.org/abs/2505.15935)|null|
+|**2025-05-21**|**dKV-Cache: The Cache for Diffusion Language Models**|Xinyin Ma et.al.|[2505.15781](http://arxiv.org/abs/2505.15781)|**[link](https://github.com/horseee/dkv-cache)**|
+|**2025-05-21**|**DS-Bench: A Realistic Benchmark for Data Science Code Generation**|Shuyin Ouyang et.al.|[2505.15621](http://arxiv.org/abs/2505.15621)|null|
 |**2025-05-20**|**CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation**|Anna C. Doris et.al.|[2505.14646](http://arxiv.org/abs/2505.14646)|null|
 |**2025-05-20**|**Knowledge Graph Based Repository-Level Code Generation**|Mihir Athale et.al.|[2505.14394](http://arxiv.org/abs/2505.14394)|null|
 |**2025-05-20**|**Capturing the Effects of Quantization on Trojans in Code LLMs**|Aftab Hussain et.al.|[2505.14200](http://arxiv.org/abs/2505.14200)|null|
@@ -4793,12 +4805,22 @@
 |**2025-05-15**|**eqsat: An Equality Saturation Dialect for Non-destructive Rewriting**|Jules Merckx et.al.|[2505.09363](http://arxiv.org/abs/2505.09363)|null|
 |**2025-05-13**|**Tests as Prompt: A Test-Driven-Development Benchmark for LLM Code Generation**|Yi Cui et.al.|[2505.09027](http://arxiv.org/abs/2505.09027)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Code Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Reward Model Overoptimisation in Iterated RLHF**|Lorenz Wolf et.al.|[2505.18126](http://arxiv.org/abs/2505.18126)|null|
+|**2025-05-23**|**Dynamic Dual Buffer with Divide-and-Conquer Strategy for Online Continual Learning**|Congren Dai et.al.|[2505.18101](http://arxiv.org/abs/2505.18101)|null|
+|**2025-05-23**|**Backpropagation-Free Metropolis-Adjusted Langevin Algorithm**|Adam D. Cobb et.al.|[2505.18081](http://arxiv.org/abs/2505.18081)|null|
+|**2025-05-23**|**TRACE for Tracking the Emergence of Semantic Representations in Transformers**|Nura Aljaafari et.al.|[2505.17998](http://arxiv.org/abs/2505.17998)|null|
+|**2025-05-23**|**Outcome-based Reinforcement Learning to Predict the Future**|Benjamin Turtel et.al.|[2505.17989](http://arxiv.org/abs/2505.17989)|null|
+|**2025-05-23**|**Re-evaluation of Logical Specification in Behavioural Verification**|Radoslaw Klimek et.al.|[2505.17979](http://arxiv.org/abs/2505.17979)|null|
+|**2025-05-23**|**A Principled Bayesian Framework for Training Binary and Spiking Neural Networks**|James A. Walker et.al.|[2505.17962](http://arxiv.org/abs/2505.17962)|null|
+|**2025-05-23**|**Discrete Neural Flow Samplers with Locally Equivariant Transformer**|Zijing Ou et.al.|[2505.17741](http://arxiv.org/abs/2505.17741)|null|
+|**2025-05-23**|**Asynchronous Global Protocols, Precisely: Full Proofs**|Kai Pischke et.al.|[2505.17676](http://arxiv.org/abs/2505.17676)|null|
+|**2025-05-23**|**Global optimisation of the control strategy of a Brownian information Engine: Efficient information-energy exchange in a generalised potential energy surface**|Rafna Rafeek et.al.|[2505.17546](http://arxiv.org/abs/2505.17546)|null|
 |**2025-05-20**|**A quantum unstructured search algorithm for discrete optimisation: the use case of portfolio optimisation**|Titos Matsakos et.al.|[2505.14645](http://arxiv.org/abs/2505.14645)|null|
 |**2025-05-20**|**Performance Optimization of Energy-Harvesting Underlay Cognitive Radio Networks Using Reinforcement Learning**|Deemah H. Tashman et.al.|[2505.14581](http://arxiv.org/abs/2505.14581)|null|
 |**2025-05-20**|**Personalised Insulin Adjustment with Reinforcement Learning: An In-Silico Validation for People with Diabetes on Intensive Insulin Treatment**|Maria Panagiotou et.al.|[2505.14477](http://arxiv.org/abs/2505.14477)|null|
@@ -4820,7 +4842,7 @@
 |**2025-05-14**|**The Larger the Merrier? Efficient Large AI Model Inference in Wireless Edge Networks**|Zhonghao Lyu et.al.|[2505.09214](http://arxiv.org/abs/2505.09214)|null|
 |**2025-05-14**|**Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformer**|Minh Hoang Nguyen et.al.|[2505.09114](http://arxiv.org/abs/2505.09114)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Code Agents
 
@@ -4838,12 +4860,13 @@
 |**2025-04-23**|**SWE-PolyBench: A multi-language benchmark for repository level evaluation of coding agents**|Muhammad Shihab Rashid et.al.|[2504.08703](http://arxiv.org/abs/2504.08703)|**[link](https://github.com/amazon-science/swe-polybench)**|
 |**2025-04-14**|**ELT-Bench: An End-to-End Benchmark for Evaluating AI Agents on ELT Pipelines**|Tengjun Jin et.al.|[2504.04808](http://arxiv.org/abs/2504.04808)|**[link](https://github.com/uiuc-kang-lab/elt-bench)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Code Improvement
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development**|Yaxin Du et.al.|[2505.16975](http://arxiv.org/abs/2505.16975)|**[link](https://github.com/justlittlewhite/swe-dev)**|
 |**2025-05-19**|**Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair**|Han Zheng et.al.|[2505.13103](http://arxiv.org/abs/2505.13103)|null|
 |**2025-05-19**|**Adversarial Reasoning for Repair Based on Inferred Program Intent**|He Ye et.al.|[2505.13008](http://arxiv.org/abs/2505.13008)|null|
 |**2025-05-17**|**Introduction to Analytical Software Engineering Design Paradigm**|Tarik Houichime et.al.|[2505.11979](http://arxiv.org/abs/2505.11979)|null|
@@ -4858,14 +4881,22 @@
 |**2025-05-13**|**Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning**|Liguo Ji et.al.|[2505.01022](http://arxiv.org/abs/2505.01022)|**[link](https://github.com/hellojlg/rc_detector)**|
 |**2025-05-02**|**Identifying Root Cause of bugs by Capturing Changed Code Lines with Relational Graph Neural Networks**|Jiaqi Zhang et.al.|[2505.00990](http://arxiv.org/abs/2505.00990)|**[link](https://github.com/leling666/rc-detection)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## LLM Applications
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Assessing the performance of 8 AI chatbots in bibliographic reference retrieval: Grok and DeepSeek outperform ChatGPT, but none are fully accurate**|Álvaro Cabezas-Clavijo et.al.|[2505.18059](http://arxiv.org/abs/2505.18059)|null|
+|**2025-05-23**|**CLIMB: Class-imbalanced Learning Benchmark on Tabular Data**|Zhining Liu et.al.|[2505.17451](http://arxiv.org/abs/2505.17451)|**[link](https://github.com/zhiningliu1998/imbalanced-ensemble)**|
+|**2025-05-22**|**Software Architecture Meets LLMs: A Systematic Literature Review**|Larissa Schmid et.al.|[2505.16697](http://arxiv.org/abs/2505.16697)|null|
+|**2025-05-22**|**AutoMCQ -- Automatically Generate Code Comprehension Questions using GenAI**|Martin Goodfellow et.al.|[2505.16430](http://arxiv.org/abs/2505.16430)|null|
+|**2025-05-22**|**ReCopilot: Reverse Engineering Copilot in Binary Analysis**|Guoqiang Chen et.al.|[2505.16366](http://arxiv.org/abs/2505.16366)|null|
+|**2025-05-22**|**Transformer Copilot: Learning from The Mistake Log in LLM Fine-tuning**|Jiaru Zou et.al.|[2505.16270](http://arxiv.org/abs/2505.16270)|**[link](https://github.com/jiaruzouu/transformercopilot)**|
+|**2025-05-22**|**Can AI Read Between The Lines? Benchmarking LLMs On Financial Nuance**|Dominick Kubica et.al.|[2505.16090](http://arxiv.org/abs/2505.16090)|null|
+|**2025-05-23**|**Prototypical Human-AI Collaboration Behaviors from LLM-Assisted Writing in the Wild**|Sheshera Mysore et.al.|[2505.16023](http://arxiv.org/abs/2505.16023)|null|
 |**2025-05-20**|**AI Agents in the Electricity Market Game with Cryptocurrency Transactions: A Post-Terminator Analysis**|Microsoft Copilot et.al.|[2505.14612](http://arxiv.org/abs/2505.14612)|null|
-|**2025-05-20**|**MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem**|Fan Liu et.al.|[2505.14148](http://arxiv.org/abs/2505.14148)|null|
+|**2025-05-20**|**MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem**|Fan Liu et.al.|[2505.14148](http://arxiv.org/abs/2505.14148)|**[link](https://github.com/usail-hkust/llm-mm-agent)**|
 |**2025-05-20**|**Interpretable Traces, Unexpected Outcomes: Investigating the Disconnect in Trace-Based Knowledge Distillation**|Siddhant Bhambri et.al.|[2505.13792](http://arxiv.org/abs/2505.13792)|null|
 |**2025-05-19**|**Advancing Software Quality: A Standards-Focused Review of LLM-Based Assurance Techniques**|Avinash Patil et.al.|[2505.13766](http://arxiv.org/abs/2505.13766)|null|
 |**2025-05-20**|**OSS-Bench: Benchmark Generator for Coding LLMs**|Yuancheng Jiang et.al.|[2505.12331](http://arxiv.org/abs/2505.12331)|**[link](https://github.com/oss-bench/oss-bench)**|
@@ -4883,7 +4914,7 @@
 |**2025-05-12**|**BinMetric: A Comprehensive Binary Analysis Benchmark for Large Language Models**|Xiuwei Shang et.al.|[2505.07360](http://arxiv.org/abs/2505.07360)|null|
 |**2025-05-12**|**Private LoRA Fine-tuning of Open-Source LLMs with Homomorphic Encryption**|Jordan Frery et.al.|[2505.07329](http://arxiv.org/abs/2505.07329)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Software Engineering
 
@@ -4893,7 +4924,7 @@
 |**2025-05-19**|**NEAT: QCP: A Practical Separation Logic-based C Program Verification Tool**|Xiwei Wu et.al.|[2505.12878](http://arxiv.org/abs/2505.12878)|null|
 |**2025-05-07**|**VeriFast's separation logic: a higher-order(ish) logic without laters for modular verification of fine-grained concurrent programs**|Bart Jacobs et.al.|[2505.04500](http://arxiv.org/abs/2505.04500)|null|
 |**2025-05-06**|**A Sequent Calculus For Trace Formula Implication**|Niklas Heidler et.al.|[2505.03693](http://arxiv.org/abs/2505.03693)|null|
-|**2025-05-01**|**Beyond Affine Loops: A Geometric Approach to Program Synthesis**|Erdenebayar Bayarmagnai et.al.|[2505.00620](http://arxiv.org/abs/2505.00620)|null|
+|**2025-05-01**|**Beyond Affine Loops: A Geometric Approach to Program Synthesis**|Erdenebayar Bayarmagnai et.al.|[2505.00620](http://arxiv.org/abs/2505.00620)|**[link](https://github.com/Erdenebayar2/Synthesizing_Loops)**|
 |**2025-05-15**|**Symbolic Parallel Composition for Multi-language Protocol Verification**|Faezeh Nasrabadi et.al.|[2504.06833](http://arxiv.org/abs/2504.06833)|null|
 |**2025-03-01**|**SecRef*: Securely Sharing Mutable References Between Verified and Unverified Code in F***|Cezar-Constantin Andrici et.al.|[2503.00404](http://arxiv.org/abs/2503.00404)|null|
 |**2025-02-21**|**FormalSpecCpp: A Dataset of C++ Formal Specifications created using LLMs**|Madhurima Chakraborty et.al.|[2502.15217](http://arxiv.org/abs/2502.15217)|**[link](https://github.com/MadhuNimmo/FormalSpecCpp)**|
@@ -4902,19 +4933,21 @@
 |**2025-01-25**|**Quantifier Elimination and Craig Interpolation: The Quantitative Way (Technical Report)**|Kevin Batz et.al.|[2501.15156](http://arxiv.org/abs/2501.15156)|null|
 |**2025-01-02**|**A Primal-Dual Perspective on Program Verification Algorithms (Extended Version)**|Takeshi Tsukada et.al.|[2501.01512](http://arxiv.org/abs/2501.01512)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Emerging Topics
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Large Language Model-Powered Agent for C to Rust Code Translation**|HoHyun Sim et.al.|[2505.15858](http://arxiv.org/abs/2505.15858)|null|
+|**2025-05-22**|**LEANCODE: Understanding Models Better for Code Simplification of Pre-trained Large Language Models**|Yan Wang et.al.|[2505.14759](http://arxiv.org/abs/2505.14759)|null|
 |**2025-05-20**|**Knowledge Graph Based Repository-Level Code Generation**|Mihir Athale et.al.|[2505.14394](http://arxiv.org/abs/2505.14394)|null|
 |**2025-05-20**|**Capturing the Effects of Quantization on Trojans in Code LLMs**|Aftab Hussain et.al.|[2505.14200](http://arxiv.org/abs/2505.14200)|null|
 |**2025-05-19**|**TimeSeriesGym: A Scalable Benchmark for (Time Series) Machine Learning Engineering Agents**|Yifu Cai et.al.|[2505.13291](http://arxiv.org/abs/2505.13291)|**[link](https://github.com/moment-timeseries-foundation-model/timeseriesgym)**|
 |**2025-05-19**|**AutoGEEval: A Multimodal and Automated Framework for Geospatial Code Generation on GEE with Large Language Models**|Shuyang Hou et.al.|[2505.12900](http://arxiv.org/abs/2505.12900)|null|
 |**2025-05-19**|**On-Policy Optimization with Group Equivalent Preference for Multi-Programming Language Understanding**|Haoyuan Wu et.al.|[2505.12723](http://arxiv.org/abs/2505.12723)|null|
 |**2025-05-18**|**EVALOOP: Assessing LLM Robustness in Programming from a Self-consistency Perspective**|Sen Fang et.al.|[2505.12185](http://arxiv.org/abs/2505.12185)|null|
-|**2025-05-17**|**Do Code LLMs Do Static Analysis?**|Chia-Yi Su et.al.|[2505.12118](http://arxiv.org/abs/2505.12118)|null|
+|**2025-05-17**|**Do Code LLMs Do Static Analysis?**|Chia-Yi Su et.al.|[2505.12118](http://arxiv.org/abs/2505.12118)|**[link](https://github.com/apcl-research/llm-reason)**|
 |**2025-05-14**|**Variational Prefix Tuning for Diverse and Accurate Code Summarization Using Pre-trained Language Models**|Junda Zhao et.al.|[2505.09062](http://arxiv.org/abs/2505.09062)|**[link](https://github.com/jundaz/VPT)**|
 |**2025-05-12**|**A Systematic Literature Review on Neural Code Translation**|Xiang Chen et.al.|[2505.07425](http://arxiv.org/abs/2505.07425)|null|
 |**2025-05-12**|**BinMetric: A Comprehensive Binary Analysis Benchmark for Large Language Models**|Xiuwei Shang et.al.|[2505.07360](http://arxiv.org/abs/2505.07360)|null|
@@ -4926,7 +4959,7 @@
 |**2025-04-24**|**Towards Leveraging Large Language Model Summaries for Topic Modeling in Source Code**|Michele Carissimi et.al.|[2504.17426](http://arxiv.org/abs/2504.17426)|null|
 |**2025-04-26**|**A Study on Mixup-Inspired Augmentation Methods for Software Vulnerability Detection**|Seyed Shayan Daneshvar et.al.|[2504.15632](http://arxiv.org/abs/2504.15632)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

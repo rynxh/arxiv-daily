@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1360,7 +1360,7 @@ layout: default
 |**2025-04-16**|**Generalized Visual Relation Detection with Diffusion Models**|Kaifeng Gao et.al.|[2504.12100](http://arxiv.org/abs/2504.12100)|null|
 |**2025-04-15**|**Visual Re-Ranking with Non-Visual Side Information**|Gustav Hanning et.al.|[2504.11134](http://arxiv.org/abs/2504.11134)|**[link](https://github.com/ghanning/gcsa)**|
 |**2025-04-15**|**TMCIR: Token Merge Benefits Composed Image Retrieval**|Chaoyang Wang et.al.|[2504.10995](http://arxiv.org/abs/2504.10995)|null|
-|**2025-04-14**|**Focus on Local: Finding Reliable Discriminative Regions for Visual Place Recognition**|Changwei Wang et.al.|[2504.09881](http://arxiv.org/abs/2504.09881)|null|
+|**2025-04-14**|**Focus on Local: Finding Reliable Discriminative Regions for Visual Place Recognition**|Changwei Wang et.al.|[2504.09881](http://arxiv.org/abs/2504.09881)|**[link](https://github.com/chenshunpeng/FoL)**|
 |**2025-04-12**|**Evolved Hierarchical Masking for Self-Supervised Learning**|Zhanzhou Feng et.al.|[2504.09155](http://arxiv.org/abs/2504.09155)|null|
 |**2025-04-11**|**HAL-NeRF: High Accuracy Localization Leveraging Neural Radiance Fields**|Asterios Reppas et.al.|[2504.08901](http://arxiv.org/abs/2504.08901)|null|
 |**2025-04-11**|**Hypergraph Vision Transformers: Images are More than Nodes, More than Edges**|Joshua Fixelle et.al.|[2504.08710](http://arxiv.org/abs/2504.08710)|null|
@@ -4749,23 +4749,23 @@ layout: default
 |**2025-05-29**|**LLM Performance for Code Generation on Noisy Tasks**|Radzim Sendyka et.al.|[2505.23598](http://arxiv.org/abs/2505.23598)|null|
 |**2025-05-29**|**Synthesizing Performance Constraints for Evaluating and Improving Code Efficiency**|Jun Yang et.al.|[2505.23471](http://arxiv.org/abs/2505.23471)|null|
 |**2025-05-29**|**MemAscend: System Memory Optimization for SSD-Offloaded LLM Fine-Tuning**|Yong-Cheng Liaw et.al.|[2505.23254](http://arxiv.org/abs/2505.23254)|null|
-|**2025-05-29**|**OSS-UAgent: An Agent-based Usability Evaluation Framework for Open Source Software**|Lingkai Meng et.al.|[2505.23239](http://arxiv.org/abs/2505.23239)|null|
+|**2025-05-29**|**OSS-UAgent: An Agent-based Usability Evaluation Framework for Open Source Software**|Lingkai Meng et.al.|[2505.23239](http://arxiv.org/abs/2505.23239)|**[link](https://github.com/lingkai981/oss-uagent)**|
 |**2025-05-29**|**Infinite-Instruct: Synthesizing Scaling Code instruction Data with Bidirectional Synthesis and Static Verification**|Wenjing Xing et.al.|[2505.23177](http://arxiv.org/abs/2505.23177)|null|
-|**2025-05-29**|**VERINA: Benchmarking Verifiable Code Generation**|Zhe Ye et.al.|[2505.23135](http://arxiv.org/abs/2505.23135)|null|
+|**2025-05-29**|**VERINA: Benchmarking Verifiable Code Generation**|Zhe Ye et.al.|[2505.23135](http://arxiv.org/abs/2505.23135)|**[link](https://github.com/sunblaze-ucb/verina)**|
 |**2025-05-29**|**Self-Correcting Code Generation Using Small Language Models**|Jeonghun Cho et.al.|[2505.23060](http://arxiv.org/abs/2505.23060)|**[link](https://github.com/jeonghun3572/CoCoS)**|
 |**2025-05-28**|**HiLDe: Intentional Code Generation via Human-in-the-Loop Decoding**|Emmanuel Anaya González et.al.|[2505.22906](http://arxiv.org/abs/2505.22906)|null|
 |**2025-05-28**|**Training Language Models to Generate Quality Code with Program Analysis Feedback**|Feng Yao et.al.|[2505.22704](http://arxiv.org/abs/2505.22704)|null|
-|**2025-05-28**|**TPDE: A Fast Adaptable Compiler Back-End Framework**|Tobias Schwarz et.al.|[2505.22610](http://arxiv.org/abs/2505.22610)|null|
+|**2025-05-28**|**TPDE: A Fast Adaptable Compiler Back-End Framework**|Tobias Schwarz et.al.|[2505.22610](http://arxiv.org/abs/2505.22610)|**[link](https://github.com/tpde2/tpde)**|
 |**2025-05-23**|**PPT: A Process-based Preference Learning Framework for Self Improving Table Question Answering Models**|Wei Zhou et.al.|[2505.17565](http://arxiv.org/abs/2505.17565)|null|
 |**2025-05-23**|**From Reasoning to Generalization: Knowledge-Augmented LLMs for ARC Benchmark**|Chao Lei et.al.|[2505.17482](http://arxiv.org/abs/2505.17482)|null|
-|**2025-05-23**|**FullFront: Benchmarking MLLMs Across the Full Front-End Engineering Workflow**|Haoyu Sun et.al.|[2505.17399](http://arxiv.org/abs/2505.17399)|null|
+|**2025-05-23**|**FullFront: Benchmarking MLLMs Across the Full Front-End Engineering Workflow**|Haoyu Sun et.al.|[2505.17399](http://arxiv.org/abs/2505.17399)|**[link](https://github.com/mikivishy/fullfront)**|
 |**2025-05-22**|**Large Language Models for Predictive Analysis: How Far Are They?**|Qin Chen et.al.|[2505.17149](http://arxiv.org/abs/2505.17149)|null|
 |**2025-05-22**|**HyGenar: An LLM-Driven Hybrid Genetic Algorithm for Few-Shot Grammar Generation**|Weizhi Tang et.al.|[2505.16978](http://arxiv.org/abs/2505.16978)|**[link](https://github.com/rutatang/hygenar)**|
 |**2025-05-22**|**SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development**|Yaxin Du et.al.|[2505.16975](http://arxiv.org/abs/2505.16975)|**[link](https://github.com/justlittlewhite/swe-dev)**|
 |**2025-05-22**|**Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks**|Hongyuan Tao et.al.|[2505.16901](http://arxiv.org/abs/2505.16901)|null|
 |**2025-05-21**|**MAPS: A Multilingual Benchmark for Global Agent Performance and Security**|Omer Hofman et.al.|[2505.15935](http://arxiv.org/abs/2505.15935)|null|
 |**2025-05-21**|**dKV-Cache: The Cache for Diffusion Language Models**|Xinyin Ma et.al.|[2505.15781](http://arxiv.org/abs/2505.15781)|**[link](https://github.com/horseee/dkv-cache)**|
-|**2025-05-21**|**DS-Bench: A Realistic Benchmark for Data Science Code Generation**|Shuyin Ouyang et.al.|[2505.15621](http://arxiv.org/abs/2505.15621)|null|
+|**2025-05-21**|**DS-Bench: A Realistic Benchmark for Data Science Code Generation**|Shuyin Ouyang et.al.|[2505.15621](http://arxiv.org/abs/2505.15621)|**[link](https://github.com/shuyinouyang/ds_bench)**|
 |**2025-05-20**|**CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation**|Anna C. Doris et.al.|[2505.14646](http://arxiv.org/abs/2505.14646)|**[link](https://github.com/anniedoris/cad-coder)**|
 |**2025-05-20**|**Knowledge Graph Based Repository-Level Code Generation**|Mihir Athale et.al.|[2505.14394](http://arxiv.org/abs/2505.14394)|null|
 |**2025-05-20**|**Capturing the Effects of Quantization on Trojans in Code LLMs**|Aftab Hussain et.al.|[2505.14200](http://arxiv.org/abs/2505.14200)|null|
@@ -4836,8 +4836,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-29**|**Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents**|Jenny Zhang et.al.|[2505.22954](http://arxiv.org/abs/2505.22954)|null|
-|**2025-05-27**|**RepoMaster: Autonomous Exploration and Understanding of GitHub Repositories for Complex Task Solving**|Huacan Wang et.al.|[2505.21577](http://arxiv.org/abs/2505.21577)|null|
+|**2025-05-29**|**Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents**|Jenny Zhang et.al.|[2505.22954](http://arxiv.org/abs/2505.22954)|**[link](https://github.com/jennyzzt/dgm)**|
+|**2025-05-27**|**RepoMaster: Autonomous Exploration and Understanding of GitHub Repositories for Complex Task Solving**|Huacan Wang et.al.|[2505.21577](http://arxiv.org/abs/2505.21577)|**[link](https://github.com/wanghuacan/repomaster)**|
 |**2025-05-26**|**MLR-Bench: Evaluating AI Agents on Open-Ended Machine Learning Research**|Hui Chen et.al.|[2505.19955](http://arxiv.org/abs/2505.19955)|**[link](https://github.com/chchenhui/mlrbench)**|
 |**2025-05-23**|**IDA-Bench: Evaluating LLMs on Interactive Guided Data Analysis**|Hanyu Li et.al.|[2505.18223](http://arxiv.org/abs/2505.18223)|**[link](https://github.com/lhydave/ida-bench)**|
 |**2025-05-29**|**LLM-Enhanced Symbolic Control for Safety-Critical Applications**|Amir Bayat et.al.|[2505.11077](http://arxiv.org/abs/2505.11077)|null|

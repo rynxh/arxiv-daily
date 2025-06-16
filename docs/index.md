@@ -115,7 +115,7 @@ layout: default
 |**2025-03-04**|**DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting**|Haoyuan Li et.al.|[2503.02223](http://arxiv.org/abs/2503.02223)|**[link](https://github.com/lihaoy-ux/dqo-map)**|
 |**2025-03-03**|**Constraint-Based Modeling of Dynamic Entities in 3D Scene Graphs for Robust SLAM**|Marco Giberna et.al.|[2503.02050](http://arxiv.org/abs/2503.02050)|null|
 |**2025-03-03**|**vS-Graphs: Integrating Visual SLAM and Situational Graphs through Multi-level Scene Understanding**|Ali Tourani et.al.|[2503.01783](http://arxiv.org/abs/2503.01783)|null|
-|**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661](http://arxiv.org/abs/2503.01661)|null|
+|**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661](http://arxiv.org/abs/2503.01661)|**[link](https://github.com/naver/must3r)**|
 |**2025-03-03**|**OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding**|Dianyi Yang et.al.|[2503.01646](http://arxiv.org/abs/2503.01646)|null|
 |**2025-03-03**|**MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features**|Chao Ye et.al.|[2503.01571](http://arxiv.org/abs/2503.01571)|**[link](https://github.com/lihaoy-ux/mline-vins)**|
 |**2025-03-03**|**AI-Driven Relocation Tracking in Dynamic Kitchen Environments**|Arash Nasr Esfahani et.al.|[2503.01547](http://arxiv.org/abs/2503.01547)|**[link](https://github.com/ArashNasrEsfahani/Object-Rearrangement-in-Dynamic-Environments)**|
@@ -952,7 +952,7 @@ layout: default
 |**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
 |**2025-05-01**|**Are Minimal Radial Distortion Solvers Really Necessary for Relative Pose Estimation?**|Viktor Kocur et.al.|[2505.00866](http://arxiv.org/abs/2505.00866)|**[link](https://github.com/kocurvik/rdnet)**|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
-|**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378](http://arxiv.org/abs/2504.20378)|null|
+|**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378](http://arxiv.org/abs/2504.20378)|**[link](https://github.com/wuuu3511/sparse2dgs)**|
 |**2025-04-28**|**MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**|Zador Pataki et.al.|[2504.20040](http://arxiv.org/abs/2504.20040)|**[link](https://github.com/cvg/mpsfm)**|
 |**2025-04-24**|**Dynamic Camera Poses and Where to Find Them**|Chris Rockwell et.al.|[2504.17788](http://arxiv.org/abs/2504.17788)|null|
 |**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280](http://arxiv.org/abs/2504.17280)|null|
@@ -978,7 +978,7 @@ layout: default
 |**2025-03-24**|**Ground Penetrating Radar-Assisted Multimodal Robot Odometry Using Subsurface Feature Matrix**|Haifeng Li et.al.|[2503.18301](http://arxiv.org/abs/2503.18301)|null|
 |**2025-03-22**|**3D Modeling: Camera Movement Estimation and path Correction for SFM Model using the Combination of Modified A-SIFT and Stereo System**|Usha Kumari et.al.|[2503.17668](http://arxiv.org/abs/2503.17668)|null|
 |**2025-03-25**|**ProtoGS: Efficient and High-Quality Rendering with 3D Gaussian Prototypes**|Zhengqing Gao et.al.|[2503.17486](http://arxiv.org/abs/2503.17486)|null|
-|**2025-03-21**|**ColabSfM: Collaborative Structure-from-Motion by Point Cloud Registration**|Johan Edstedt et.al.|[2503.17093](http://arxiv.org/abs/2503.17093)|null|
+|**2025-03-21**|**ColabSfM: Collaborative Structure-from-Motion by Point Cloud Registration**|Johan Edstedt et.al.|[2503.17093](http://arxiv.org/abs/2503.17093)|**[link](https://github.com/ericssonresearch/colabsfm)**|
 |**2025-03-20**|**From Monocular Vision to Autonomous Action: Guiding Tumor Resection via 3D Reconstruction**|Ayberk Acar et.al.|[2503.16263](http://arxiv.org/abs/2503.16263)|null|
 |**2025-03-22**|**Euclid Quick Data Release (Q1). A first view of the star-forming main sequence in the Euclid Deep Fields**|Euclid Collaboration et.al.|[2503.15314](http://arxiv.org/abs/2503.15314)|null|
 |**2025-03-18**|**Multi-view Reconstruction via SfM-guided Monocular Depth Estimation**|Haoyu Guo et.al.|[2503.14483](http://arxiv.org/abs/2503.14483)|null|
@@ -993,7 +993,7 @@ layout: default
 |**2025-03-09**|**AxisPose: Model-Free Matching-Free Single-Shot 6D Object Pose Estimation via Axis Generation**|Yang Zou et.al.|[2503.06660](http://arxiv.org/abs/2503.06660)|null|
 |**2025-03-07**|**LiDAR-enhanced 3D Gaussian Splatting Mapping**|Jian Shen et.al.|[2503.05425](http://arxiv.org/abs/2503.05425)|null|
 |**2025-03-06**|**PLMP -- Point-Line Minimal Problems for Projective SfM**|Kim Kiehn et.al.|[2503.04351](http://arxiv.org/abs/2503.04351)|null|
-|**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661](http://arxiv.org/abs/2503.01661)|null|
+|**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661](http://arxiv.org/abs/2503.01661)|**[link](https://github.com/naver/must3r)**|
 |**2025-03-03**|**ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**|Anas Abdelkarim et.al.|[2503.01311](http://arxiv.org/abs/2503.01311)|**[link](https://github.com/snt-arg/ecg2o)**|
 |**2025-03-05**|**A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**|Jialei He et.al.|[2503.01202](http://arxiv.org/abs/2503.01202)|null|
 |**2025-03-02**|**MTReD: 3D Reconstruction Dataset for Fly-over Videos of Maritime Domain**|Rui Yi Yong et.al.|[2503.00853](http://arxiv.org/abs/2503.00853)|null|
@@ -1399,7 +1399,7 @@ layout: default
 |**2025-03-20**|**Automating 3D Dataset Generation with Neural Radiance Fields**|P. Schulz et.al.|[2503.15997](http://arxiv.org/abs/2503.15997)|**[link](https://github.com/PaulSK98/Nerf2Dataset)**|
 |**2025-03-18**|**3D Densification for Multi-Map Monocular VSLAM in Endoscopy**|X. Anadón et.al.|[2503.14346](http://arxiv.org/abs/2503.14346)|null|
 |**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|**[link](https://github.com/ais-lab/a-score)**|
-|**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
+|**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|**[link](https://github.com/mrazhou/seta)**|
 |**2025-03-17**|**Multi-Platform Teach-and-Repeat Navigation by Visual Place Recognition Based on Deep-Learned Local Features**|Václav Truhlařík et.al.|[2503.13090](http://arxiv.org/abs/2503.13090)|null|
 |**2025-03-17**|**All You Need to Know About Training Image Retrieval Models**|Gabriele Berton et.al.|[2503.13045](http://arxiv.org/abs/2503.13045)|**[link](https://github.com/gmberton/image-retrieval)**|
 |**2025-03-12**|**Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**|Yibin Ye et.al.|[2503.10692](http://arxiv.org/abs/2503.10692)|**[link](https://github.com/uav-avl/benchmark)**|
@@ -1417,7 +1417,7 @@ layout: default
 |**2025-03-06**|**RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining**|Tengfei Zhang et.al.|[2503.04653](http://arxiv.org/abs/2503.04653)|null|
 |**2025-03-06**|**ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**|Yanqing Shen et.al.|[2503.04475](http://arxiv.org/abs/2503.04475)|**[link](https://github.com/shenyanqing1105/ForestLPR-CVPR2025)**|
 |**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235](http://arxiv.org/abs/2503.04235)|null|
-|**2025-03-06**|**Bridging the Vision-Brain Gap with an Uncertainty-Aware Blur Prior**|Haitao Wu et.al.|[2503.04207](http://arxiv.org/abs/2503.04207)|null|
+|**2025-03-06**|**Bridging the Vision-Brain Gap with an Uncertainty-Aware Blur Prior**|Haitao Wu et.al.|[2503.04207](http://arxiv.org/abs/2503.04207)|**[link](https://github.com/haitaowutju/uncertainty-aware-blur-prior)**|
 |**2025-03-06**|**Image-Based Relocalization and Alignment for Long-Term Monitoring of Dynamic Underwater Environments**|Beverley Gorry et.al.|[2503.04096](http://arxiv.org/abs/2503.04096)|**[link](https://github.com/bev-gorry/underloc)**|
 |**2025-03-04**|**TeTRA-VPR: A Ternary Transformer Approach for Compact Visual Place Recognition**|Oliver Grainge et.al.|[2503.02511](http://arxiv.org/abs/2503.02511)|null|
 |**2025-03-04**|**Introspective Loop Closure for SLAM with 4D Imaging Radar**|Maximilian Hilger et.al.|[2503.02383](http://arxiv.org/abs/2503.02383)|null|
@@ -1671,7 +1671,7 @@ layout: default
 |**2024-06-27**|**PathAlign: A vision-language model for whole slide images in histopathology**|Faruk Ahmed et.al.|[2406.19578](http://arxiv.org/abs/2406.19578)|null|
 |**2024-07-05**|**360 in the Wild: Dataset for Depth Prediction and View Synthesis**|Kibaek Park et.al.|[2406.18898](http://arxiv.org/abs/2406.18898)|null|
 |**2024-06-27**|**Zero-shot Composed Image Retrieval Considering Query-target Relationship Leveraging Masked Image-text Pairs**|Huaying Zhang et.al.|[2406.18836](http://arxiv.org/abs/2406.18836)|null|
-|**2024-06-26**|**WV-Net: A foundation model for SAR WV-mode satellite imagery trained using contrastive self-supervised learning on 10 million images**|Yannik Glaser et.al.|[2406.18765](http://arxiv.org/abs/2406.18765)|null|
+|**2024-06-26**|**WV-Net: A foundation model for SAR WV-mode satellite imagery trained using contrastive self-supervised learning on 10 million images**|Yannik Glaser et.al.|[2406.18765](http://arxiv.org/abs/2406.18765)|**[link](https://github.com/hawaii-ai/wvnet)**|
 |**2024-06-26**|**View-Invariant Pixelwise Anomaly Detection in Multi-object Scenes with Adaptive View Synthesis**|Subin Varghese et.al.|[2406.18012](http://arxiv.org/abs/2406.18012)|null|
 |**2024-06-25**|**Tell Me Where You Are: Multimodal LLMs Meet Place Recognition**|Zonglin Lyu et.al.|[2406.17520](http://arxiv.org/abs/2406.17520)|null|
 |**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249](http://arxiv.org/abs/2406.17249)|**[link](https://github.com/xurobotics/slide_slam)**|
@@ -3141,7 +3141,7 @@ layout: default
 |**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|**[link](https://github.com/JohannaXie/GauSS-MI)**|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
 |**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
-|**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378](http://arxiv.org/abs/2504.20378)|null|
+|**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378](http://arxiv.org/abs/2504.20378)|**[link](https://github.com/wuuu3511/sparse2dgs)**|
 |**2025-04-28**|**Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video**|Hoang Chuong Nguyen et.al.|[2504.19819](http://arxiv.org/abs/2504.19819)|null|
 |**2025-04-27**|**Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users**|Apurv Varshney et.al.|[2504.19345](http://arxiv.org/abs/2504.19345)|null|
 |**2025-04-29**|**IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos**|Yuan Li et.al.|[2504.19165](http://arxiv.org/abs/2504.19165)|null|
@@ -3162,7 +3162,7 @@ layout: default
 |**2025-04-11**|**HAL-NeRF: High Accuracy Localization Leveraging Neural Radiance Fields**|Asterios Reppas et.al.|[2504.08901](http://arxiv.org/abs/2504.08901)|null|
 |**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978](http://arxiv.org/abs/2504.06978)|null|
 |**2025-04-09**|**S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications**|Masquil Elías et.al.|[2504.06920](http://arxiv.org/abs/2504.06920)|null|
-|**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815](http://arxiv.org/abs/2504.06815)|null|
+|**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815](http://arxiv.org/abs/2504.06815)|**[link](https://github.com/learner-shx/svg-ir)**|
 |**2025-04-08**|**Meta-Continual Learning of Neural Fields**|Seungyoon Woo et.al.|[2504.05806](http://arxiv.org/abs/2504.05806)|null|
 |**2025-04-08**|**SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**|Yihuan Huang et.al.|[2504.05803](http://arxiv.org/abs/2504.05803)|null|
 |**2025-04-08**|**InvNeRF-Seg: Fine-Tuning a Pre-Trained NeRF for 3D Object Segmentation**|Jiangsan Zhao et.al.|[2504.05751](http://arxiv.org/abs/2504.05751)|null|
@@ -4771,8 +4771,8 @@ layout: default
 |**2025-06-10**|**Understanding Software Engineering Agents Through the Lens of Traceability: An Empirical Study**|Ira Ceka et.al.|[2506.08311](http://arxiv.org/abs/2506.08311)|null|
 |**2025-06-09**|**Repeton: Structured Bug Repair with ReAct-Guided Patch-and-Test Cycles**|Nguyen Phu Vinh et.al.|[2506.08173](http://arxiv.org/abs/2506.08173)|null|
 |**2025-06-09**|**Worst-Case Symbolic Constraints Analysis and Generalisation with Large Language Models**|Daniel Koh et.al.|[2506.08171](http://arxiv.org/abs/2506.08171)|null|
-|**2025-06-09**|**SlideCoder: Layout-aware RAG-enhanced Hierarchical Slide Generation from Design**|Wenxin Tang et.al.|[2506.07964](http://arxiv.org/abs/2506.07964)|null|
-|**2025-06-09**|**ProtocolLLM: RTL Benchmark for SystemVerilog Generation of Communication Protocols**|Arnav Sheth et.al.|[2506.07945](http://arxiv.org/abs/2506.07945)|null|
+|**2025-06-09**|**SlideCoder: Layout-aware RAG-enhanced Hierarchical Slide Generation from Design**|Wenxin Tang et.al.|[2506.07964](http://arxiv.org/abs/2506.07964)|**[link](https://github.com/vinsontang1/slidecoder)**|
+|**2025-06-09**|**ProtocolLLM: RTL Benchmark for SystemVerilog Generation of Communication Protocols**|Arnav Sheth et.al.|[2506.07945](http://arxiv.org/abs/2506.07945)|**[link](https://github.com/amsheth/fpga_protocols_llm)**|
 |**2025-06-09**|**Adversarial Attack Classification and Robustness Testing for Large Language Models for Code**|Yang Liu et.al.|[2506.07942](http://arxiv.org/abs/2506.07942)|null|
 |**2025-06-09**|**Learning to Focus: Causal Attention Distillation via Gradient-Guided Token Pruning**|Yiju Guo et.al.|[2506.07851](http://arxiv.org/abs/2506.07851)|null|
 |**2025-06-04**|**Generating Automotive Code: Large Language Models for Software Development and Verification in Safety-Critical Systems**|Sven Kirchner et.al.|[2506.04038](http://arxiv.org/abs/2506.04038)|null|
@@ -4781,7 +4781,7 @@ layout: default
 |**2025-06-04**|**From Understanding to Generation: An Efficient Shortcut for Evaluating Language Models**|Viktor Hangya et.al.|[2506.03592](http://arxiv.org/abs/2506.03592)|null|
 |**2025-06-04**|**From Virtual Agents to Robot Teams: A Multi-Robot Framework Evaluation in High-Stakes Healthcare Context**|Yuanchen Bai et.al.|[2506.03546](http://arxiv.org/abs/2506.03546)|null|
 |**2025-06-04**|**Across Programming Language Silos: A Study on Cross-Lingual Retrieval-augmented Code Generation**|Qiming Zhu et.al.|[2506.03535](http://arxiv.org/abs/2506.03535)|null|
-|**2025-06-05**|**Seed-Coder: Let the Code Model Curate Data for Itself**|ByteDance Seed et.al.|[2506.03524](http://arxiv.org/abs/2506.03524)|null|
+|**2025-06-05**|**Seed-Coder: Let the Code Model Curate Data for Itself**|ByteDance Seed et.al.|[2506.03524](http://arxiv.org/abs/2506.03524)|**[link](https://github.com/bytedance-seed/seed-coder)**|
 |**2025-06-03**|**Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning**|Yinjie Wang et.al.|[2506.03136](http://arxiv.org/abs/2506.03136)|null|
 |**2025-06-03**|**How do Pre-Trained Models Support Software Engineering? An Empirical Study in Hugging Face**|Alexandra González et.al.|[2506.03013](http://arxiv.org/abs/2506.03013)|null|
 |**2025-06-03**|**A Preference-Driven Methodology for High-Quality Solidity Code Generation**|Zhiyuan Peng et.al.|[2506.03006](http://arxiv.org/abs/2506.03006)|null|
@@ -4819,7 +4819,7 @@ layout: default
 |**2025-05-15**|**Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models**|Zemin Huang et.al.|[2505.10446](http://arxiv.org/abs/2505.10446)|null|
 |**2025-05-15**|**Geometrically Enhanced Topological Quantum Codes**|David Aasen et.al.|[2505.10403](http://arxiv.org/abs/2505.10403)|null|
 |**2025-05-15**|**Rethinking Repetition Problems of LLMs in Code Generation**|Yihong Dong et.al.|[2505.10402](http://arxiv.org/abs/2505.10402)|**[link](https://github.com/lyc127/rpg)**|
-|**2025-05-15**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375](http://arxiv.org/abs/2505.10375)|null|
+|**2025-05-15**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375](http://arxiv.org/abs/2505.10375)|**[link](https://github.com/rufimelo99/SAE-Java-Bug-Detection)**|
 |**2025-05-15**|**ComplexFormer: Disruptively Advancing Transformer Inference Ability via Head-Specific Complex Vector Attention**|Jintian Shao et.al.|[2505.10222](http://arxiv.org/abs/2505.10222)|null|
 |**2025-05-15**|**UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs**|Yi Gui et.al.|[2505.09904](http://arxiv.org/abs/2505.09904)|**[link](https://github.com/CGCL-codes/naturalcc)**|
 |**2025-05-14**|**Qwen3 Technical Report**|An Yang et.al.|[2505.09388](http://arxiv.org/abs/2505.09388)|**[link](https://github.com/qwenlm/qwen3)**|
@@ -4954,7 +4954,7 @@ layout: default
 |**2025-05-07**|**Identification and Optimization of Redundant Code Using Large Language Models**|Shamse Tasnim Cynthia et.al.|[2505.04040](http://arxiv.org/abs/2505.04040)|null|
 |**2025-05-05**|**Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment**|Zhenyu Yang et.al.|[2505.02629](http://arxiv.org/abs/2505.02629)|**[link](https://github.com/sedeepl/graphlora)**|
 |**2025-05-04**|**A Path Less Traveled: Reimagining Software Engineering Automation via a Neurosymbolic Paradigm**|Antonio Mastropaolo et.al.|[2505.02275](http://arxiv.org/abs/2505.02275)|null|
-|**2025-05-02**|**Towards an Interpretable Analysis for Estimating the Resolution Time of Software Issues**|Dimitrios-Nikitas Nastos et.al.|[2505.01108](http://arxiv.org/abs/2505.01108)|null|
+|**2025-05-02**|**Towards an Interpretable Analysis for Estimating the Resolution Time of Software Issues**|Dimitrios-Nikitas Nastos et.al.|[2505.01108](http://arxiv.org/abs/2505.01108)|**[link](https://github.com/AuthEceSoftEng/issues-fix-time)**|
 |**2025-05-13**|**Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning**|Liguo Ji et.al.|[2505.01022](http://arxiv.org/abs/2505.01022)|**[link](https://github.com/hellojlg/rc_detector)**|
 |**2025-05-02**|**Identifying Root Cause of bugs by Capturing Changed Code Lines with Relational Graph Neural Networks**|Jiaqi Zhang et.al.|[2505.00990](http://arxiv.org/abs/2505.00990)|**[link](https://github.com/leling666/rc-detection)**|
 

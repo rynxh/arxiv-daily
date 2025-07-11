@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.07
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4720,6 +4720,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Open Source, Hidden Costs: A Systematic Literature Review on OSS License Management**|Boyuan Li et.al.|[2507.05270](http://arxiv.org/abs/2507.05270)|null|
 |**2025-07-03**|**Efficient Code LLM Training via Distribution-Consistent and Diversity-Aware Data Selection**|Weijie Lyu et.al.|[2507.02378](http://arxiv.org/abs/2507.02378)|null|
 |**2025-06-23**|**The Debugging Decay Index: Rethinking Debugging Strategies for Code LLMs**|Muntasir Adnan et.al.|[2506.18403](http://arxiv.org/abs/2506.18403)|null|
 |**2025-06-21**|**CodeMorph: Mitigating Data Leakage in Large Language Model Assessment**|Hongzhou Rao et.al.|[2506.17627](http://arxiv.org/abs/2506.17627)|null|
@@ -4762,6 +4763,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Are They All Good? Evaluating the Quality of CoTs in LLM-based Code Generation**|Binquan Zhang et.al.|[2507.06980](http://arxiv.org/abs/2507.06980)|null|
+|**2025-07-10**|**Rethinking Verification for LLM Code Generation: From Generation to Testing**|Zihan Ma et.al.|[2507.06920](http://arxiv.org/abs/2507.06920)|null|
+|**2025-07-09**|**Text to model via SysML: Automated generation of dynamical system computational models from unstructured natural language text via enhanced System Modeling Language diagrams**|Matthew Anderson Hendricks et.al.|[2507.06803](http://arxiv.org/abs/2507.06803)|null|
+|**2025-07-09**|**Finding Compiler Bugs through Cross-Language Code Generator and Differential Testing**|Qiong Feng et.al.|[2507.06584](http://arxiv.org/abs/2507.06584)|null|
+|**2025-07-09**|**Foundation Model Self-Play: Open-Ended Strategy Innovation via Foundation Models**|Aaron Dharna et.al.|[2507.06466](http://arxiv.org/abs/2507.06466)|null|
+|**2025-07-09**|**Evaluating Efficiency and Novelty of LLM-Generated Code for Graph Analysis**|Atieh Barati Nia et.al.|[2507.06463](http://arxiv.org/abs/2507.06463)|null|
+|**2025-07-08**|**A Semantic Parsing Framework for End-to-End Time Normalization**|Xin Su et.al.|[2507.06450](http://arxiv.org/abs/2507.06450)|null|
+|**2025-07-08**|**Coding Triangle: How Does Large Language Model Understand Code?**|Taolin Zhang et.al.|[2507.06138](http://arxiv.org/abs/2507.06138)|null|
+|**2025-07-08**|**CoRE: Enhancing Metacognition with Label-free Self-evaluation in LRMs**|Haoxi Li et.al.|[2507.06087](http://arxiv.org/abs/2507.06087)|null|
+|**2025-07-07**|**Learn Globally, Speak Locally: Bridging the Gaps in Multilingual Reasoning**|Jaedong Hwang et.al.|[2507.05418](http://arxiv.org/abs/2507.05418)|null|
 |**2025-07-03**|**LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users**|Almog Hilel et.al.|[2507.02850](http://arxiv.org/abs/2507.02850)|null|
 |**2025-07-03**|**Efficient Code LLM Training via Distribution-Consistent and Diversity-Aware Data Selection**|Weijie Lyu et.al.|[2507.02378](http://arxiv.org/abs/2507.02378)|null|
 |**2025-07-03**|**DecoRTL: A Run-time Decoding Framework for RTL Code Generation with LLMs**|Mohammad Akyash et.al.|[2507.02226](http://arxiv.org/abs/2507.02226)|null|
@@ -4877,6 +4888,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Extremal problems for clamped plates under tension**|Pedro Freitas et.al.|[2507.07040](http://arxiv.org/abs/2507.07040)|null|
+|**2025-07-09**|**The Post Science Paradigm of Scientific Discovery in the Era of Artificial Intelligence: Modelling the Collapse of Ideation Costs, Epistemic Inversion, and the End of Knowledge Scarcity**|Christian William Callaghan et.al.|[2507.07019](http://arxiv.org/abs/2507.07019)|null|
+|**2025-07-09**|**Optimisation of Electrolyser Operation: Integrating External Heat**|Matthias Derez et.al.|[2507.06796](http://arxiv.org/abs/2507.06796)|null|
+|**2025-07-09**|**Predict and Conquer: Navigating Algorithm Trade-offs with Quantum Design Automation**|Simon Thelen et.al.|[2507.06758](http://arxiv.org/abs/2507.06758)|null|
+|**2025-07-09**|**Sustainability Transitions and Bending the Curve of Biodiversity Collapse in the Amazon Forest**|Romero-Goyeneche Oscar Yandy et.al.|[2507.06663](http://arxiv.org/abs/2507.06663)|null|
+|**2025-07-09**|**Prevention of Overfitting on Mesh-Structured Data Regressions with a Modified Laplace Operator**|Enda D. V. Bigarella et.al.|[2507.06631](http://arxiv.org/abs/2507.06631)|null|
+|**2025-07-09**|**FuDoBa: Fusing Document and Knowledge Graph-based Representations with Bayesian Optimisation**|Boshko Koloski et.al.|[2507.06622](http://arxiv.org/abs/2507.06622)|null|
+|**2025-07-09**|**A model-agnostic active learning approach for animal detection from camera traps**|Thi Thu Thuy Nguyen et.al.|[2507.06537](http://arxiv.org/abs/2507.06537)|null|
+|**2025-07-09**|**Vectorised Hashing Based on Bernstein-Rabin-Winograd Polynomials over Prime Order Fields**|Kaushik Nath et.al.|[2507.06490](http://arxiv.org/abs/2507.06490)|null|
+|**2025-07-10**|**Integrated Open-Source Framework for Simulation of Transcatheter Pulmonary Valves in Native Right Ventricular Outflow Tracts**|Christopher N. Zelonis et.al.|[2507.06337](http://arxiv.org/abs/2507.06337)|null|
 |**2025-07-03**|**On the Architectural Split and Radio Intelligence Controller Placement in Integrated O-RAN-enabled Non-Terrestrial Networks**|Jorge Baranda et.al.|[2507.02680](http://arxiv.org/abs/2507.02680)|null|
 |**2025-07-03**|**Pinching-Antenna-Assisted Index Modulation: Channel Modeling, Transceiver Design, and Performance Analysis**|Shuaixin Yang et.al.|[2507.02641](http://arxiv.org/abs/2507.02641)|null|
 |**2025-07-03**|**Optimisation of amplification and gas mixture for directional Dark Matter searches with the CYGNO/INITIUM project**|Giorgio Dho et.al.|[2507.02474](http://arxiv.org/abs/2507.02474)|null|
@@ -4992,6 +5013,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976](http://arxiv.org/abs/2507.02976)|null|
 |**2025-07-03**|**Hey AI, Generate Me a Hardware Code! Agentic AI-based Hardware Design & Verification**|Deepak Narayan Gadde et.al.|[2507.02660](http://arxiv.org/abs/2507.02660)|null|
 |**2025-07-01**|**iPanda: An Intelligent Protocol Testing and Debugging Agent for Conformance Testing**|Xikai Sun et.al.|[2507.00378](http://arxiv.org/abs/2507.00378)|null|
 |**2025-06-27**|**RExBench: Can coding agents autonomously implement AI research extensions?**|Nicholas Edwards et.al.|[2506.22598](http://arxiv.org/abs/2506.22598)|null|
@@ -5031,6 +5053,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-04**|**CoreCodeBench: A Configurable Multi-Scenario Repository-Level Benchmark**|Lingyue Fu et.al.|[2507.05281](http://arxiv.org/abs/2507.05281)|null|
+|**2025-07-04**|**Specification-Guided Repair of Arithmetic Errors in Dafny Programs using LLMs**|Valentina Wu et.al.|[2507.03659](http://arxiv.org/abs/2507.03659)|null|
+|**2025-07-04**|**ACE: Automated Technical Debt Remediation with Validated Large Language Model Refactorings**|Adam Tornhill et.al.|[2507.03536](http://arxiv.org/abs/2507.03536)|null|
 |**2025-07-02**|**APRMCTS: Improving LLM-based Automated Program Repair with Iterative Tree Search**|Haichuan Hu et.al.|[2507.01827](http://arxiv.org/abs/2507.01827)|null|
 |**2025-06-30**|**Bug Fixing with Broader Context: Enhancing LLM-Based Program Repair via Layered Knowledge Injection**|Ramtin Ehsani et.al.|[2506.24015](http://arxiv.org/abs/2506.24015)|null|
 |**2025-06-30**|**ISI-Aware Code Design: A Linear Approach Towards Reliable Molecular Communication**|Tamoghno Nath et.al.|[2506.23787](http://arxiv.org/abs/2506.23787)|null|
@@ -5071,6 +5096,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Chat-Ghosting: A Comparative Study of Methods for Auto-Completion in Dialog Systems**|Sandeep Mishra et.al.|[2507.05940](http://arxiv.org/abs/2507.05940)|null|
+|**2025-07-04**|**Explainable Information Retrieval in the Audit Domain**|Alexander Frummet et.al.|[2507.03479](http://arxiv.org/abs/2507.03479)|null|
+|**2025-07-08**|**MPX: Mixed Precision Training for JAX**|Alexander Gräfe et.al.|[2507.03312](http://arxiv.org/abs/2507.03312)|null|
+|**2025-07-03**|**RCA Copilot: Transforming Network Data into Actionable Insights via Large Language Models**|Alexander Shan et.al.|[2507.03224](http://arxiv.org/abs/2507.03224)|null|
 |**2025-07-03**|**GDC Cohort Copilot: An AI Copilot for Curating Cohorts from the Genomic Data Commons**|Steven Song et.al.|[2507.02221](http://arxiv.org/abs/2507.02221)|null|
 |**2025-07-02**|**Enhancing COBOL Code Explanations: A Multi-Agents Approach Using Large Language Models**|Fangjian Lei et.al.|[2507.02182](http://arxiv.org/abs/2507.02182)|null|
 |**2025-07-01**|**Echoes of AI: Investigating the Downstream Effects of AI Assistants on Software Maintainability**|Markus Borg et.al.|[2507.00788](http://arxiv.org/abs/2507.00788)|null|
@@ -5156,7 +5185,7 @@ layout: default
 |**2025-05-25**|**Proceedings 16th International Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software**|Farzaneh Derakhshan et.al.|[2505.19078](http://arxiv.org/abs/2505.19078)|null|
 |**2025-06-03**|**Enumerate-Conjecture-Prove: Formally Solving Answer-Construction Problems in Math Competitions**|Jialiang Sun et.al.|[2505.18492](http://arxiv.org/abs/2505.18492)|**[link](https://github.com/jacksun200312/ecp)**|
 |**2025-05-20**|**Augmented Weak Distance for Fast and Accurate Bounds Checking**|Zhoulai Fu et.al.|[2505.14213](http://arxiv.org/abs/2505.14213)|null|
-|**2025-05-19**|**NEAT: QCP: A Practical Separation Logic-based C Program Verification Tool**|Xiwei Wu et.al.|[2505.12878](http://arxiv.org/abs/2505.12878)|null|
+|**2025-07-10**|**QCP: A Practical Separation Logic-based C Program Verification Tool**|Xiwei Wu et.al.|[2505.12878](http://arxiv.org/abs/2505.12878)|null|
 |**2025-05-07**|**VeriFast's separation logic: a higher-order(ish) logic without laters for modular verification of fine-grained concurrent programs**|Bart Jacobs et.al.|[2505.04500](http://arxiv.org/abs/2505.04500)|null|
 |**2025-05-06**|**A Sequent Calculus For Trace Formula Implication**|Niklas Heidler et.al.|[2505.03693](http://arxiv.org/abs/2505.03693)|null|
 |**2025-05-01**|**Beyond Affine Loops: A Geometric Approach to Program Synthesis**|Erdenebayar Bayarmagnai et.al.|[2505.00620](http://arxiv.org/abs/2505.00620)|**[link](https://github.com/Erdenebayar2/Synthesizing_Loops)**|
@@ -5172,14 +5201,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**The Impact of LLM-Assistants on Software Developer Productivity: A Systematic Literature Review**|Amr Mohamed et.al.|[2507.03156](http://arxiv.org/abs/2507.03156)|null|
 |**2025-07-02**|**Structural Code Search using Natural Language Queries**|Ben Limpanukorn et.al.|[2507.02107](http://arxiv.org/abs/2507.02107)|null|
 |**2025-06-29**|**Towards Generalized and Stealthy Watermarking for Generative Code Models**|Haoxuan Li et.al.|[2506.20926](http://arxiv.org/abs/2506.20926)|null|
-|**2025-06-24**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902](http://arxiv.org/abs/2506.18902)|null|
+|**2025-07-07**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902](http://arxiv.org/abs/2506.18902)|null|
 |**2025-06-15**|**Improved Iterative Refinement for Chart-to-Code Generation via Structured Instruction**|Chengzhi Xu et.al.|[2506.14837](http://arxiv.org/abs/2506.14837)|null|
 |**2025-06-17**|**Guaranteed Guess: A Language Modeling Approach for CISC-to-RISC Transpilation with Testing Guarantees**|Ahmed Heakl et.al.|[2506.14606](http://arxiv.org/abs/2506.14606)|null|
 |**2025-06-17**|**AST-Enhanced or AST-Overloaded? The Surprising Impact of Hybrid Graph Representations on Code Clone Detection**|Zixian Zhang et.al.|[2506.14470](http://arxiv.org/abs/2506.14470)|**[link](https://github.com/zixianreid/semantic_graph_code_code_clone)**|
 |**2025-06-11**|**Mutual-Supervised Learning for Sequential-to-Parallel Code Translation**|Changxin Ke et.al.|[2506.11153](http://arxiv.org/abs/2506.11153)|**[link](https://github.com/kcxain/musl)**|
-|**2025-06-05**|**hdl2v: A Code Translation Dataset for Enhanced LLM Verilog Generation**|Charles Hong et.al.|[2506.04544](http://arxiv.org/abs/2506.04544)|null|
+|**2025-07-08**|**hdl2v: A Code Translation Dataset for Enhanced LLM Verilog Generation**|Charles Hong et.al.|[2506.04544](http://arxiv.org/abs/2506.04544)|null|
 |**2025-06-04**|**CETBench: A Novel Dataset constructed via Transformations over Programs for Benchmarking LLMs for Code-Equivalence Checking**|Neeva Oza et.al.|[2506.04019](http://arxiv.org/abs/2506.04019)|null|
 |**2025-06-08**|**Rethinking the effects of data contamination in Code Intelligence**|Zhen Yang et.al.|[2506.02791](http://arxiv.org/abs/2506.02791)|null|
 |**2025-06-02**|**Which Factors Make Code LLMs More Vulnerable to Backdoor Attacks? A Systematic Study**|Chenyu Wang et.al.|[2506.01825](http://arxiv.org/abs/2506.01825)|null|
